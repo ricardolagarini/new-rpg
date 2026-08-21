@@ -1,0 +1,28 @@
+tipo;nome;preco;heroisPermitidos;ataque;ataqueEspecial;ataqueInstantaneo;vida;forca
+ArmaPrincipal;Excalibur;1500;[Cavaleiro];300;1500;0;0;0
+ArmaPrincipal;Arco de Auriel;1500;[Arqueiro];300;1500;0;0;0
+ArmaPrincipal;Cajado de Gandalf;1500;[Feiticeiro];350;1700;0;0;0
+ArmaPrincipal;Espada Cega;5;[Cavaleiro];60;300;0;0;0
+ArmaPrincipal;Arco Velho;5;[Arqueiro];50;250;0;0;0
+ArmaPrincipal;Cajado de Madeira;5;[Feiticeiro];80;400;0;0;0
+ConsumivelCombate;Faca de Arremeço;100;[Cavaleiro,Arqueiro];0;0;900;0;0
+ConsumivelCombate;Molotov;150;[Cavaleiro,Arqueiro];0;0;1200;0;0
+ConsumivelCombate;Hadouken;200;[Feiticeiro];0;0;1600;0;0
+ConsumivelCombate;Granada de Mao;150;[Cavaleiro,Arqueiro];0;0;1200;0;0
+ConsumivelCombate;Avada Kedava;2000;[Feiticeiro];0;0;3000;0;0
+ConsumivelCombate;Meteoro de Pegasus;2000;[Cavaleiro];0;0;3000;0;0
+ConsumivelCombate;Flecha Fuminante;2000;[Arqueiro];0;0;3000;0;0
+Pocao;Cana Braba;50;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;350;30
+Pocao;Pao Velho;35;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;200;5
+Pocao;Francesinha Gourmet;80;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;500;30
+Pocao;Anabolizante;100;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;0;50
+Pocao;Elixir Milagroso;700;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;1000;50
+Pocao;Cigarrao de Palha;30;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;200;10
+Pocao;Bacalhau em Conserva;80;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;600;20
+Pocao;Cogumelo Magico;100;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;800;30
+Pocao;Sandes de Creme de Ovo;50;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;600;5
+Pocao;Bola de Berlim de Atum;50;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;600;5
+ConsumivelCombate;Bomba fedorenta;220;[Cavaleiro,Arqueiro,Feiticeiro];0;0;1500;0;0
+Pocao;Lapis Lazuli;2000;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;2000;50
+Pocao;Pequi Cuiabano com Maxixe;5000;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;3000;100
+Pocao;Elixir das Trevas;5000;[Cavaleiro,Arqueiro,Feiticeiro];0;0;0;3000;100
